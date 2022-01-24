@@ -14,6 +14,7 @@ Discord will rate limit you most likely, but you can just spam it again after a 
 * As you can see, this is open source. If you use my code please reference back to this repo to be respectful. Other then that, I don't really care what you do.
 * See an issue/improvement you want to add? Make a Pull Request and I will update the repo.
 * Code Style, all curly braces go on a new line
+example:
 ```csharp
 if (true)
 {
