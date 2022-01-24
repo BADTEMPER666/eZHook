@@ -23,7 +23,7 @@ if (true)
 		{
 		
 		}
-		catch ()
+		catch (Exception ex)
 		{
 		
 		}
